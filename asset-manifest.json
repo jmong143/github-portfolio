@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github-portfolio/static/css/main.b12c3648.css",
-    "main.js": "/github-portfolio/static/js/main.e23f8fba.js",
+    "main.css": "/github-portfolio/static/css/main.139bbd95.css",
+    "main.js": "/github-portfolio/static/js/main.68dbf584.js",
     "index.html": "/github-portfolio/index.html",
-    "main.b12c3648.css.map": "/github-portfolio/static/css/main.b12c3648.css.map",
-    "main.e23f8fba.js.map": "/github-portfolio/static/js/main.e23f8fba.js.map"
+    "main.139bbd95.css.map": "/github-portfolio/static/css/main.139bbd95.css.map",
+    "main.68dbf584.js.map": "/github-portfolio/static/js/main.68dbf584.js.map"
   },
   "entrypoints": [
-    "static/css/main.b12c3648.css",
-    "static/js/main.e23f8fba.js"
+    "static/css/main.139bbd95.css",
+    "static/js/main.68dbf584.js"
   ]
 }
